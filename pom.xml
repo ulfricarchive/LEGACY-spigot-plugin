@@ -16,13 +16,6 @@
 	<packaging>pom</packaging>
 
 	<dependencies>
-		<!-- RUNTIME -->
-		<dependency>
-			<groupId>com.ulfric.commons</groupId>
-			<artifactId>commons-spigot</artifactId>
-			<version>1.0.0</version>
-		</dependency>
-
 		<!-- TESTING -->
 		<dependency>
 			<groupId>com.ulfric.commons</groupId>
